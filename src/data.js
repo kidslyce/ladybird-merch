@@ -11,14 +11,14 @@ export const storeProducts = [
       price: 30,
       company: "Ladybird Salon",
       info:
-        "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+        "Tote around all you hair care products in this goregous tote bag from your favorite salon, Yas QWUEEN!!! or King!!!!",
       inCart: false,
       count: 0,
       total: 0
     },
     {
       id: 2,
-      title: "Ladybird Phone Case",
+      title: "Phone Case",
       img: "img/product-2.png",
       price: 16,
       company: "Ladybird Salon",
