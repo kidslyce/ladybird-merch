@@ -88,7 +88,6 @@ increment = (id) => {
     this.setState(()=>{return{cart:[...tempCart]}}, ()=> {this.addTotals()})
 };
 
-// once the item has been incremented, we can use the callback function to be added as soon as it is changed
 
 
 decrement = id => {

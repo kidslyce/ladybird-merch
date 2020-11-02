@@ -23,7 +23,7 @@ export const storeProducts = [
       price: 16,
       company: "Ladybird Salon",
       info:
-        "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+        "This stylish phone case will for sure catch peoples eye as you are 'doing it for the gram' or tik toking your way around town.",
       inCart: false,
       count: 0,
       total: 0
@@ -35,7 +35,7 @@ export const storeProducts = [
       price: 8,
       company: "Ladybird Salon",
       info:
-        "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+        "What better way to show your squad than by repping this fly shirt from the ladys of Ladybird Salon",
       inCart: false,
       count: 0,
       total: 0
@@ -47,7 +47,7 @@ export const storeProducts = [
       price: 18,
       company: "Ladybird Salon",
       info:
-        "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+        "You can keep the sun off you by wearing this amazing hat while protecting your hair, just dont wear it after you have been in the salon",
       inCart: false,
       count: 0,
       total: 0
